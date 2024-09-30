@@ -25,17 +25,17 @@ ul{
     padding: 25px 0px;
 }
 
-.logo{
+.header_nav{
 color: #39930d;
 font-size: 22px;
     
 }
-.logo b{
+.header_nav b{
     display: block;
     font-size: 44px;
 }
 
-.logo i{
+.header_nav i{
     color: #5a5a5a;
     font-size: 14px;
 }
@@ -46,7 +46,7 @@ font-size: 22px;
    display: flex;
 }
 
-.logo img{
+.header_nav img{
     padding-left: 34px;
 }
 
@@ -54,13 +54,13 @@ font-size: 22px;
     width: 100%;
 }
 
-.contacts a {
+.nav_menu a {
 color: #39930d;
 text-decoration: none;
 font-size: 22px;
 }
 
-.contacts{
+>.nav_menu{
     color: #5a5a5a;
     font-size: 14px;
 }
